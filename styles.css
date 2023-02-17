@@ -4,3 +4,14 @@ h1 {
     font-style: italic;
 
 }
+
+p {
+    /*add a custom google font family */
+
+    /* change the size */
+    font-size: 30px;
+    /*change the line height */
+    line-height: 10px;
+    /* change the color */
+    color:darkgreen;
+}
