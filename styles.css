@@ -7,7 +7,7 @@ h1 {
 
 p {
     /*add a custom google font family */
-
+    font-family: 'Oswald', sans-serif;
     /* change the size */
     font-size: 30px;
     /*change the line height */
