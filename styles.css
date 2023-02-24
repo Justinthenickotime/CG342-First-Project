@@ -23,4 +23,5 @@ p {
     border-width: 2px;
     text-decoration: none;
     color: black;
+    border-radius: 20px;
 }
