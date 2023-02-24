@@ -25,4 +25,9 @@ p {
     color: black;
     border-radius: 20px;
     padding: 10px;
+    display: block;
+    width: 150px;
+    text-align: center;
+    margin-top: 20px;
 }
+
