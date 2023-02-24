@@ -31,3 +31,19 @@ p {
     margin-top: 20px;
 }
 
+.button-alert {
+    border-style: solid;
+    border-color: yellowgreen;
+    background-color: blueviolet;
+    border-width: 2px;
+    text-decoration: none;
+    color: black;
+    border-radius: 40px;
+    padding: 10px;
+    display: block;
+    width: 150px;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+
