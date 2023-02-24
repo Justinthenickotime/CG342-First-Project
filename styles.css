@@ -15,3 +15,11 @@ p {
     /* change the color */
     color:darkgreen;
 }
+
+.button-links {
+    border-style: solid;
+    border-color: cornflowerblue;
+    background-color: plum;
+    border-width: 2px;
+    
+}
