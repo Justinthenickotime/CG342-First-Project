@@ -75,6 +75,8 @@ footer {
     text-align: center;
     padding-top: 0 10px;
     background-color: aqua;
+    background-image: url("https://images.pexels.com/photos/1047525/pexels-photo-1047525.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size: cover;
 
 
 }
