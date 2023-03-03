@@ -80,6 +80,9 @@ footer {
 nav {
     padding: 20px;
     background-color: cornsilk;
+    position: fixed;
+    width: 100%;
+    background-color: white;
 
 }
 
