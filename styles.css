@@ -73,3 +73,18 @@ footer {
 
 
 }
+
+nav {
+    padding: 20px;
+    background-color: cornsilk;
+
+}
+
+.nav-links {
+    list-style-type: none;
+}
+
+.nav-links li {
+    display: inline;
+
+}
