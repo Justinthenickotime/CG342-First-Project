@@ -91,6 +91,7 @@ nav {
     display: inline;
     margin: 0 auto;
     width: 200px;
+    text-align: center;
 
 }
 .nav-links li a {
