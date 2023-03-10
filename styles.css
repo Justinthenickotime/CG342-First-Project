@@ -136,3 +136,11 @@ nav {
     }
 
 }
+
+img{
+    width: 100%;
+}
+
+.article-image {
+    width: 300px;
+}
