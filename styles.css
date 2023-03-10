@@ -136,6 +136,13 @@ nav {
         background-color: darkgrey;
     }
 
+    .main-content {
+        margin: 0 auto;
+        padding: 0 50px;
+        background-color: #936f83;
+    
+    }
+
 }
 
 img{
